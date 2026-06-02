@@ -34,10 +34,20 @@ Unlike single-parameter systems prone to false negatives or positives, this fram
               |  (Vibration Motor Active <500ms)  |   | System Polling Loop   |
               +-----------------------------------+   +-----------------------+
 
-## 📄 Research & Publications
+##  Research & Publications
 The structural engineering architecture, experimental data, and cost benchmarks are fully documented in our academic seminar paper.
 
-* **Read the Full Paper:** [Panic_Attack_Detection_System_IEEE.pdf](./docs/Microprocessors_and_Microcontrollers_Submission.pdf)
+* **Read the Full Paper:** [Panic_Attack_Detection_System_IEEE.pdf](./docs/Microprocessors and Microcontrollers Submission P (2).pdf)
 
 **Developed by:** Utsav Anand Sharma, Nikunj Goydani, Harsh Batra, & Prasoon Mishra  
 **Affiliation:** School of Electronics Engineering, Vellore Institute of Technology
+
+
+
+
+
+
+
+
+<img width="380" height="420" alt="image" src="https://github.com/user-attachments/assets/a2ae5c52-83b8-4c26-8021-0a73dce9e110" />
+
