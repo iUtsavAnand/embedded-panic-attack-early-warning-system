@@ -2,12 +2,12 @@
 
 An ESP32-powered wearable hardware platform that utilizes sensor fusion to monitor physiological markers of the Autonomic Nervous System (ANS), enabling the real-time detection and mitigation of panic attacks.
 
-## 📁 Repository Overview
+##  Repository Overview
 * **/src**: Contains the core hardware initialization scripts, multi-parameter threshold state-machines, and sensor read loops.
 * **/hardware**: Includes hardware block diagrams, pin-out configurations, and component datasheets.
 * **/docs**: Houses the formal IEEE conference format seminar report and research references.
 
-## 🧠 Sensor Fusion Logic Flow
+##  Sensor Fusion Logic Flow
 Unlike single-parameter systems prone to false negatives or positives, this framework cross-examines Heart Rate, Skin Temperature, and Motion Activity to classify user states deterministically:
 
                       +---------------------------------------+
